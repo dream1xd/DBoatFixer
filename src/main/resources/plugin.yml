@@ -1,0 +1,9 @@
+name: DBoatFixer
+version: '${project.version}'
+main: me.dreamix.dboatfixer.DBoatFixer
+commands:
+  dfix:
+    aliases:
+      - dboatfixer
+      - dreamixfix
+    description: Команда для плагина DBoatFixer
